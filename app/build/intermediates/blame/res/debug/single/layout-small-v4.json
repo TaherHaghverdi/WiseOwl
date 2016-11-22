@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\layout-small-v4\\game_classic.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\layout-small\\game_classic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\layout-small-v4\\game_timer.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\layout-small\\game_timer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\layout-small-v4\\dialog_lose.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\layout-small\\dialog_lose.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\layout-small-v4\\dialog_timer_lose.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\layout-small\\dialog_timer_lose.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\layout-small-v4\\splash.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\layout-small\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\layout-small-v4\\shop.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\layout-small\\shop.xml"
+    }
+]

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#993a3a"
+    android:orientation="horizontal" >
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        android:gravity="center_vertical"
+        android:paddingLeft="8dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="?android:attr/actionBarSize"
+            android:orientation="vertical" android:gravity="center">
+
+
+            <Button
+                android:id="@+id/btnRegister"
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/button_cream"
+                android:text="ثبت نام/ورود" />
+
+        </LinearLayout>
+
+
+
+        <ImageView
+            android:id="@+id/imgTotalHighScores"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:src="@drawable/ic_ranks" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" android:gravity="center" android:paddingLeft="9dp">
+
+
+
+            <TextView
+                android:id="@+id/txtTotalRank"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="رتبه در کشور"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        </LinearLayout>
+
+
+
+
+
+
+        <ImageView
+            android:id="@+id/imgSlidingMenu"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_marginBottom="2dp"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="2dp"
+            android:src="@drawable/ic_sliding_menu_open" />
+
+    </LinearLayout>
+
+</LinearLayout>

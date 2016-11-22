@@ -1,0 +1,1191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#d3ebee"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.16" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/Layout"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="0.16"
+                android:orientation="horizontal"
+                android:padding="10dp" >
+
+                <LinearLayout
+                    android:id="@+id/LayoutScore1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#e4e198"
+                    android:gravity="right"
+                    android:padding="4dp" >
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.5"
+                        android:gravity="right"
+                        android:orientation="vertical"
+                        android:padding="4dp" >
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|left"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtScore1"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="1800"
+                                android:textColor="#000000"
+                                android:textSize="18dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|left"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtNickName1"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="لقب:مبتدی"
+                                android:textColor="#000000" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="fill_parent"
+                        android:layout_marginRight="2dp"
+                        android:layout_weight="0.5"
+                        android:gravity="right"
+                        android:orientation="vertical"
+                        android:padding="4dp" >
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|right"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtUser1"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="نام کاربری"
+                                android:textColor="#000000"
+                                android:textSize="18dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|right"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtRank1"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="رتبه"
+                                android:textColor="#000000" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <ImageView
+                        android:id="@+id/imgNum1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/ic_rival_no_profile" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/Layout"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="0.16"
+                android:orientation="horizontal"
+                android:padding="10dp" >
+
+                <LinearLayout
+                    android:id="@+id/LayoutScore2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#e4e198"
+                    android:gravity="right"
+                    android:padding="4dp" >
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.5"
+                        android:gravity="right"
+                        android:orientation="vertical"
+                        android:padding="4dp" >
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|left"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtScore2"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="1800"
+                                android:textColor="#000000"
+                                android:textSize="18dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|left"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtNickName2"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="لقب:مبتدی"
+                                android:textColor="#000000" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="fill_parent"
+                        android:layout_marginRight="2dp"
+                        android:layout_weight="0.5"
+                        android:gravity="right"
+                        android:orientation="vertical"
+                        android:padding="4dp" >
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|right"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtUser2"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="نام کاربری"
+                                android:textColor="#000000"
+                                android:textSize="18dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|right"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtRank2"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="رتبه"
+                                android:textColor="#000000" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <ImageView
+                        android:id="@+id/imgNum2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/ic_rival_no_profile" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/Layout"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="0.16"
+                android:orientation="horizontal"
+                android:padding="10dp" >
+
+                <LinearLayout
+                    android:id="@+id/LayoutScore3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#e4e198"
+                    android:gravity="right"
+                    android:padding="4dp" >
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.5"
+                        android:gravity="right"
+                        android:orientation="vertical"
+                        android:padding="4dp" >
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|left"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtScore3"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="1800"
+                                android:textColor="#000000"
+                                android:textSize="18dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|left"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtNickName3"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="لقب:مبتدی"
+                                android:textColor="#000000" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="fill_parent"
+                        android:layout_marginRight="2dp"
+                        android:layout_weight="0.5"
+                        android:gravity="right"
+                        android:orientation="vertical"
+                        android:padding="4dp" >
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|right"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtUser3"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="نام کاربری"
+                                android:textColor="#000000"
+                                android:textSize="18dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|right"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtRank3"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="رتبه"
+                                android:textColor="#000000" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <ImageView
+                        android:id="@+id/imgNum3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/ic_rival_no_profile" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/Layout"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="0.16"
+                android:orientation="horizontal"
+                android:padding="10dp" >
+
+                <LinearLayout
+                    android:id="@+id/LayoutScore4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#e4e198"
+                    android:gravity="right"
+                    android:padding="4dp" >
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.5"
+                        android:gravity="right"
+                        android:orientation="vertical"
+                        android:padding="4dp" >
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|left"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtScore4"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="1800"
+                                android:textColor="#000000"
+                                android:textSize="18dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|left"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtNickName4"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="لقب:مبتدی"
+                                android:textColor="#000000" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="fill_parent"
+                        android:layout_marginRight="2dp"
+                        android:layout_weight="0.5"
+                        android:gravity="right"
+                        android:orientation="vertical"
+                        android:padding="4dp" >
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|right"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtUser4"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="نام کاربری"
+                                android:textColor="#000000"
+                                android:textSize="18dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|right"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtRank4"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="رتبه"
+                                android:textColor="#000000" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <ImageView
+                        android:id="@+id/imgNum4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/ic_rival_no_profile" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/Layout"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="0.16"
+                android:orientation="horizontal"
+                android:padding="10dp" >
+
+                <LinearLayout
+                    android:id="@+id/LayoutScore5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#e4e198"
+                    android:gravity="right"
+                    android:padding="4dp" >
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.5"
+                        android:gravity="right"
+                        android:orientation="vertical"
+                        android:padding="4dp" >
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|left"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtScore5"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="1800"
+                                android:textColor="#000000"
+                                android:textSize="18dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|left"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtNickName5"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="لقب:مبتدی"
+                                android:textColor="#000000" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="fill_parent"
+                        android:layout_marginRight="2dp"
+                        android:layout_weight="0.5"
+                        android:gravity="right"
+                        android:orientation="vertical"
+                        android:padding="4dp" >
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|right"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtUser5"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="نام کاربری"
+                                android:textColor="#000000"
+                                android:textSize="18dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|right"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtRank5"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="رتبه"
+                                android:textColor="#000000" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <ImageView
+                        android:id="@+id/imgNum5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/ic_rival_no_profile" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/Layout"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="0.16"
+                android:orientation="horizontal"
+                android:padding="10dp" >
+
+                <LinearLayout
+                    android:id="@+id/LayoutScore6"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#e4e198"
+                    android:gravity="right"
+                    android:padding="4dp" >
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.5"
+                        android:gravity="right"
+                        android:orientation="vertical"
+                        android:padding="4dp" >
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|left"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtScore6"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="1800"
+                                android:textColor="#000000"
+                                android:textSize="18dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|left"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtNickName6"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="لقب:مبتدی"
+                                android:textColor="#000000" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="fill_parent"
+                        android:layout_marginRight="2dp"
+                        android:layout_weight="0.5"
+                        android:gravity="right"
+                        android:orientation="vertical"
+                        android:padding="4dp" >
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|right"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtUser6"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="نام کاربری"
+                                android:textColor="#000000"
+                                android:textSize="18dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|right"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtRank6"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="رتبه"
+                                android:textColor="#000000" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <ImageView
+                        android:id="@+id/imgNum6"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/ic_rival_no_profile" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/LinearLayout06"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="0.16"
+                android:orientation="horizontal"
+                android:padding="10dp" >
+
+                <LinearLayout
+                    android:id="@+id/LayoutScore7"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#e4e198"
+                    android:gravity="right"
+                    android:padding="4dp" >
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.5"
+                        android:gravity="right"
+                        android:orientation="vertical"
+                        android:padding="4dp" >
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|left"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtScore7"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="1800"
+                                android:textColor="#000000"
+                                android:textSize="18dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|left"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtNickName7"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="لقب:مبتدی"
+                                android:textColor="#000000" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="fill_parent"
+                        android:layout_marginRight="2dp"
+                        android:layout_weight="0.5"
+                        android:gravity="right"
+                        android:orientation="vertical"
+                        android:padding="4dp" >
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|right"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtUser7"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="نام کاربری"
+                                android:textColor="#000000"
+                                android:textSize="18dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|right"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtRank7"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="رتبه"
+                                android:textColor="#000000" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <ImageView
+                        android:id="@+id/imgNum7"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/ic_rival_no_profile" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/LinearLayout06"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="0.16"
+                android:orientation="horizontal"
+                android:padding="10dp" >
+
+                <LinearLayout
+                    android:id="@+id/LayoutScore8"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#e4e198"
+                    android:gravity="right"
+                    android:padding="4dp" >
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.5"
+                        android:gravity="right"
+                        android:orientation="vertical"
+                        android:padding="4dp" >
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|left"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtScore8"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="1800"
+                                android:textColor="#000000"
+                                android:textSize="18dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|left"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtNickName8"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="لقب:مبتدی"
+                                android:textColor="#000000" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="fill_parent"
+                        android:layout_marginRight="2dp"
+                        android:layout_weight="0.5"
+                        android:gravity="right"
+                        android:orientation="vertical"
+                        android:padding="4dp" >
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|right"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtUser8"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="نام کاربری"
+                                android:textColor="#000000"
+                                android:textSize="18dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|right"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtRank8"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="رتبه"
+                                android:textColor="#000000" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <ImageView
+                        android:id="@+id/imgNum8"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/ic_rival_no_profile" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/LinearLayout06"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="0.16"
+                android:orientation="horizontal"
+                android:padding="10dp" >
+
+                <LinearLayout
+                    android:id="@+id/LayoutScore9"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#e4e198"
+                    android:gravity="right"
+                    android:padding="4dp" >
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.5"
+                        android:gravity="right"
+                        android:orientation="vertical"
+                        android:padding="4dp" >
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|left"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtScore9"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="1800"
+                                android:textColor="#000000"
+                                android:textSize="18dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|left"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtNickName9"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="لقب:مبتدی"
+                                android:textColor="#000000" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="fill_parent"
+                        android:layout_marginRight="2dp"
+                        android:layout_weight="0.5"
+                        android:gravity="right"
+                        android:orientation="vertical"
+                        android:padding="4dp" >
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|right"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtUser9"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="نام کاربری"
+                                android:textColor="#000000"
+                                android:textSize="18dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|right"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtRank9"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="رتبه"
+                                android:textColor="#000000" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <ImageView
+                        android:id="@+id/imgNum9"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/ic_rival_no_profile" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/LinearLayout06"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="0.16"
+                android:orientation="horizontal"
+                android:padding="10dp" >
+
+                <LinearLayout
+                    android:id="@+id/LayoutScore10"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#e4e198"
+                    android:gravity="right"
+                    android:padding="4dp" >
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.5"
+                        android:gravity="right"
+                        android:orientation="vertical"
+                        android:padding="4dp" >
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|left"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtScore10"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="1800"
+                                android:textColor="#000000"
+                                android:textSize="18dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|left"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtNickName10"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="لقب:مبتدی"
+                                android:textColor="#000000" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="fill_parent"
+                        android:layout_marginRight="2dp"
+                        android:layout_weight="0.5"
+                        android:gravity="right"
+                        android:orientation="vertical"
+                        android:padding="4dp" >
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|right"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtUser10"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="نام کاربری"
+                                android:textColor="#000000"
+                                android:textSize="18dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|right"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtRank10"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="رتبه"
+                                android:textColor="#000000" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <ImageView
+                        android:id="@+id/imgNum10"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/ic_rival_no_profile" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/LinearLayout06"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="0.16"
+                android:orientation="horizontal"
+                android:padding="10dp" >
+
+                <LinearLayout
+                    android:id="@+id/LayoutScore11"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#e4e198"
+                    android:gravity="right"
+                    android:padding="4dp" >
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.5"
+                        android:gravity="right"
+                        android:orientation="vertical"
+                        android:padding="4dp" >
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|left"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtScore11"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="1800"
+                                android:textColor="#000000"
+                                android:textSize="18dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|left"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtNickName11"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="لقب:مبتدی"
+                                android:textColor="#000000" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="fill_parent"
+                        android:layout_marginRight="2dp"
+                        android:layout_weight="0.5"
+                        android:gravity="right"
+                        android:orientation="vertical"
+                        android:padding="4dp" >
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|right"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtUser11"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="نام کاربری"
+                                android:textColor="#000000"
+                                android:textSize="18dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center|right"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/txtRank11"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="رتبه"
+                                android:textColor="#000000" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <ImageView
+                        android:id="@+id/imgNum11"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/ic_rival_no_profile" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:gravity="bottom|center"
+        android:orientation="vertical" >
+
+        <ir.adad.AdView
+            android:id="@+id/ad"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+             token="8900d9d388d644f3a12af2b9d9db4931" />
+    </LinearLayout>
+
+</LinearLayout>

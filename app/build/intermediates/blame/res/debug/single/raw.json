@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\raw\\wrong_answer.mp3",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\raw\\wrong_answer.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\raw\\next_answer.mp3",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\raw\\next_answer.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\raw\\click.mp3",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\raw\\click.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\raw\\begin.mp3",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\raw\\begin.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\raw\\freeze_sound.mp3",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\raw\\freeze_sound.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\raw\\shop.mp3",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\raw\\shop.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\raw\\clock_tic.mp3",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\raw\\clock_tic.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\raw\\correct_answer.mp3",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\raw\\correct_answer.mp3"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\dialog_lose.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\layout-large\\dialog_lose.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\shop.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\layout-large\\shop.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\navigation_drawer.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\layout-large\\navigation_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\game_classic.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\layout-large\\game_classic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\dialog_first_time_in_shop.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\layout-large\\dialog_first_time_in_shop.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\profile.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\layout-large\\profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\splash.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\layout-large\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\rival_profile.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\layout-large\\rival_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\nick_name_choose.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\layout-large\\nick_name_choose.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\dialog_login.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\layout-large\\dialog_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\dialog_timer_lose.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\layout-large\\dialog_timer_lose.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\game_timer.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\layout-large\\game_timer.xml"
+    }
+]

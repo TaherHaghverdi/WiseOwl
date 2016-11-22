@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_normal2.jpg",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\btn_normal2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_classic1.jpg",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\btn_classic1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_timer1.jpg",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\btn_timer1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_ice.jpg",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\bg_ice.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_classic2.jpg",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\btn_classic2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_reverse1.jpg",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\btn_reverse1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_dialog_shop.jpg",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\bg_dialog_shop.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_splash.jpg",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\bg_splash.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_timer2.jpg",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\btn_timer2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_reverse2.jpg",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\btn_reverse2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_coment_to_coin.jpg",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_coment_to_coin.jpg"
+    }
+]

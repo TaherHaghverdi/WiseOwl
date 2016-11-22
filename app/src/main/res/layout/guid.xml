@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#d3ebee"
+    android:orientation="vertical" android:padding="10dp">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff"
+                android:gravity="right"
+                android:orientation="vertical"
+                android:padding="20dp" android:layout_marginBottom="10dp" android:layout_marginTop="10dp">
+
+                <TextView
+                    android:id="@+id/TextView07"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dp"
+                    android:text="حالت‌های بازی"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textColor="#143669" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center|right"
+                        android:orientation="vertical" >
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="4dp"
+                            android:layout_marginTop="8dp"
+                            android:gravity="center|right"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/TextView09"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="کلاسیک"
+                                android:textColor="#3ba2f2"
+                                android:textSize="16dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center|right"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/TextView08"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:gravity="right"
+                                android:text="برای هر سوال یک زمان مشخص در نظر گرفته شده. اگر اشتباه پاسخ دهید و یا زمان مربوط به سوال تمام شود خواهید باخت. که البته با پرداخت تعدادی سکه(تعداد سکه بسته به مرحله‌ای که در آن بودید تغییر می‌کند) می‌توانید بازی را ادامه دهید. مقدار زمان هر سوال را می‌توان با خرید از فروشگاه بیشتر کرد. در نهایت با توجه به بالاترین امتیاز نهایی رتبه مشخص می‌شود و بازیکن به تناسب امتیازش سکه دریافت می‌کند. هر سوال را با پرداخت تعداد معینی سکه (بسته به درجه سختی سوال) می‌‌توان رد کرد. هزینه رد کردن سوال نصف وقتی‌ست که سوال را غلط پاسخ دهید و ادامه بازی را بزنید پس اگر به سوالی شک دارید بهتر است شانسی پاسخ ندهید."
+                                android:textColor="#3b3e38" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="4dp"
+                            android:layout_marginTop="8dp"
+                            android:gravity="center|right"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/TextView12"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="زمان‌دار"
+                                android:textColor="#3ba2f2"
+                                android:textSize="16dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center|right"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/TextView11"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:gravity="right"
+                                android:text="در این حالت از ابتدا یک مقدار زمان مشخص خواهید داشت. هر سوال درست بسته به درجه سختی سوال(مرحله‌ی بازی) امتیاز + و هر سوال غلط به میزان دو برابر امتیاز – خواهد داشت. البته زمانی که امتیاز منفی شود هر سوال غلط به نسبت مرحله امتیاز منفی خواهد داشت(و نه دوبرابر). با خرید بسته‌های زمانی می‌توان به تعداد سوال بیشتری پاسخ داد و تبعاً به مراحل بالاتر رسید."
+                                android:textColor="#3b3e38" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="4dp"
+                            android:layout_marginTop="8dp"
+                            android:gravity="center|right"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/TextView01"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="جغد مخصوص"
+                                android:textColor="#3ba2f2"
+                                android:textSize="16dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center|right"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/TextView10"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:gravity="right"
+                                android:text="این حالت تا حدی شبیه حالت کلاسیک است با این تفاوت که برای هر سوال 10 ثانیه (2برابر حالت کلاسیک) برای پاسخ‌گویی به سوالات زمان دارید و نمی‌توانید سوالی را بدون پاسخ رها کنید. سوالات به صورت شانسی ممکن است عادی یا معکوس شوند و هیچ نظمی نخواهند داشت. سوالات این حالت بازی چالشی‌تر و گاهاً طنز هستند و دقت و هوش شما را می‌سنجند. در این حالت اگر پاسخ سوالی را کمتر از زمان مشخص شده دهید تا دو برابر درجه‌ سختی سوال، سکه به عنوان هدیه دریافت خواهید کرد(به علاوه سکه‌هایی که به صورت عادی از پاسخ‌گویی به سوال به‌دست می‌آورید)"
+                                android:textColor="#3b3e38" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="#ffffff"
+                android:gravity="right"
+                android:orientation="vertical"
+                android:padding="20dp" android:layout_marginTop="10dp">
+
+                <TextView
+                    android:id="@+id/textView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dp"
+                    android:text="انواع پاسخ‌گویی"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textColor="#143669" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|right"
+                        android:orientation="vertical" >
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="4dp"
+                            android:layout_marginTop="8dp"
+                            android:gravity="center|right"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/TextView03"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="عادی"
+                                android:textColor="#3ba2f2"
+                                android:textSize="16dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center|right"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/TextView04"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:gravity="right"
+                                android:text="سوال را می‌خوانید و تعیین می‌کنید درست است یا غلط."
+                                android:textColor="#3b3e38" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="4dp"
+                            android:layout_marginTop="8dp"
+                            android:gravity="center|right"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/TextView05"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="معکوس"
+                                android:textColor="#3ba2f2"
+                                android:textSize="16dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center|right"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/TextView06"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:gravity="right"
+                                android:text="در حالت معکوس اگر پاسخ سوالی درست است شما باید غلط و اگر غلط است باید درست را انتخاب نمایید."
+                                android:textColor="#3b3e38" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="#ffffff"
+                android:gravity="right"
+                android:orientation="vertical"
+                android:padding="20dp" android:layout_marginTop="10dp">
+
+                <TextView
+                    android:id="@+id/TextView17"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dp"
+                    android:text="انواع سوالات"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textColor="#143669" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
+                    <ScrollView
+                        android:id="@+id/ScrollView02"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" >
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:gravity="center|right"
+                            android:orientation="vertical" >
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginBottom="4dp"
+                                android:layout_marginTop="8dp"
+                                android:gravity="center|right"
+                                android:orientation="vertical" >
+
+                                <TextView
+                                    android:id="@+id/TextView18"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="اطلاعات عمومی"
+                                    android:textColor="#3ba2f2"
+                                    android:textSize="16dp" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:gravity="center|right"
+                                android:orientation="vertical" >
+
+                                <TextView
+                                    android:id="@+id/TextView16"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="right"
+                                    android:text="سوالاتی به زبان فارسی که در زمینه های مختلف طرح شده‌اند و به صورت شانسی انتخاب می‌شوند. سوالات در دسته‌های مقابل قرار می‌گیرند: اطلاعات عمومی، ادبیات، منطق، اخبار روز.   اینکه سوالات از چه دسته‌ای انتخاب شوند را موتور بازی تعیین می‌کند و به صورت همگون از تمام انواع سوال مشاهده خواهید کرد. برای پاسخ گویی به این سوالات به طور کل به اطلاعاتی در حد دبیرستان و یک مقدار رقت احتیاج دارید."
+                                    android:textColor="#3b3e38" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginBottom="4dp"
+                                android:layout_marginTop="8dp"
+                                android:gravity="center|right"
+                                android:orientation="vertical" >
+
+                                <TextView
+                                    android:id="@+id/TextView14"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="ریاضی"
+                                    android:textColor="#3ba2f2"
+                                    android:textSize="16dp" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:gravity="center|right"
+                                android:orientation="vertical" >
+
+                                <TextView
+                                    android:id="@+id/TextView02"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="right"
+                                    android:text="سوالات ریاضی از اعمال اصلی و ساده ریاضی شروع می‌شوند و در مراحل بالاتر به نامساوی ها و نامعادلات پیچیده‌تری خواهند رسید. در تمامی  سطوح سوالات دارای نکاتی هستند که اگر به آن‌ها دقت کنید در وقت کوتاه می‌توان پاسخ سوال را داد. برای مثال ممکن است با یک معادله سخت روبرو شوید که مشخص است پاسخ منفی دارد ولی در طرف دیگر عددی مثبت آمده."
+                                    android:textColor="#3b3e38" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginBottom="4dp"
+                                android:layout_marginTop="8dp"
+                                android:gravity="center|right"
+                                android:orientation="vertical" >
+
+                                <TextView
+                                    android:id="@+id/TextView15"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="زبان"
+                                    android:textColor="#3ba2f2"
+                                    android:textSize="16dp" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:gravity="center|right"
+                                android:orientation="vertical" >
+
+                                <TextView
+                                    android:id="@+id/TextView13"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="right"
+                                    android:text="سوالات زبان به طور عمده از کتاب‌های 504 و 1100 words you need to know انتخاب شده‌اند و اگر به این دو منبع تسلط داشته باشید مشکلی نخواهید داشت. سوالات در سطوح بالاتر علاوه بر لغات سخت‌تر از جملات ساده و منطقی انگلیسی تشکیل شده‌اند که شما باید درستی و نادرستی منطق بیان شده در سوال را بگویید. لغات به کار رفته طوری انتخاب شده‌اند که اگر به صورت دائم و با دقت بازی را انجام دهید پس از مدتی تعداد زیادی لغت و هم‌خانواده‌های آن‌ها را یاد خواهید گرفت."
+                                    android:textColor="#3b3e38" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginBottom="4dp"
+                                android:layout_marginTop="8dp"
+                                android:gravity="center|right"
+                                android:orientation="vertical" >
+
+                                <TextView
+                                    android:id="@+id/TextView19"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="جغد بزرگ (حالت مخصوص)"
+                                    android:textColor="#3ba2f2"
+                                    android:textSize="16dp" />
+
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:gravity="center|right"
+                                android:orientation="vertical" >
+
+                                <TextView
+                                    android:id="@+id/TextView20"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="right"
+                                    android:text="سوالات به طور عمده سوالات هوش، منطق و بعضاً سوالات نکته‌دار ریاضی هستند که نیاز به حل ندارند. برخی سوالات از آزمون‌های استخدامی شرکت‌های بزرگ انتخاب شده‌اند و به خوبی تمرکز و دقت شما را می‌سنجند. برای تبحر در پاسخ‌گویی به سوالات این بخش می‌توانید از کتاب‌های آموزشی GMAT استفاده کنید. این حالت به صورت پیش‌فرض قفل می‌باشد. سوالات این بخش به دقت بسیار زیاد شما نیاز دارد. بسیاری از سوالات از نظر ظاهر بسیار شبیه به هم هستند ولی منطق متفاوتی دارند، دلیل وجود اینگونه سوالات جلوگیری از امکان حفظ کردن پاسخ‌ها و سنجش دقت شما بوده است."
+                                    android:textColor="#3b3e38" />
+
+                            </LinearLayout>
+                        </LinearLayout>
+
+                    </ScrollView>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="#ffffff"
+                android:gravity="right"
+                android:orientation="vertical"
+                android:padding="20dp" android:layout_marginTop="10dp">
+
+                <TextView
+                    android:id="@+id/TextView28"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dp"
+                    android:text="فروشگاه "
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textColor="#143669" />
+
+                <TextView
+                    android:id="@+id/textView2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dp"
+                    android:text="(تمامی درآمدهای حاصل از فروشگاه بازی به کودکان مبتلا به سرطان اهدا خواهد شد.)"
+                    android:textColor="#f13131" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
+                    <ScrollView
+                        android:id="@+id/ScrollView03"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" >
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:gravity="center|right"
+                            android:orientation="vertical" >
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginBottom="4dp"
+                                android:layout_marginTop="8dp"
+                                android:gravity="center|right"
+                                android:orientation="vertical" >
+
+                                <TextView
+                                    android:id="@+id/TextView27"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="سکه"
+                                    android:textColor="#3ba2f2"
+                                    android:textSize="16dp" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:gravity="center|right"
+                                android:orientation="vertical" >
+
+                                <TextView
+                                    android:id="@+id/TextView29"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="right"
+                                    android:text="سکه‌ها برای خرید لقب، رد کردن سوالات و ادامه بازی بعد از باخت مورد استفاده قرار می‌گیرند. سیستم امتیازدهی بازی به گونه‌ای‌ست که بدون نیاز به خرید سکه نیز می‌توان سکه مورد نیاز برای استفاده در بازی را جمع آوری کرد و با خرید سکه تنها سرعت انجام بازی بیشتر خواهد بود."
+                                    android:textColor="#3b3e38" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginBottom="4dp"
+                                android:layout_marginTop="8dp"
+                                android:gravity="center|right"
+                                android:orientation="vertical" >
+
+                                <TextView
+                                    android:id="@+id/TextView23"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="گلوله برفی"
+                                    android:textColor="#3ba2f2"
+                                    android:textSize="16dp" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:gravity="center|right"
+                                android:orientation="vertical" >
+
+                                <TextView
+                                    android:id="@+id/TextView24"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="right"
+                                    android:text="برخی سوالات دارای نکاتی هستند که ممکن است در لحظه اول به ذهن نرسد. با استفاده از گلوله برفی زمان بازی یخ می‌زند و شما می‌توانید هرچه می‌خواهید روی سوال فکر کنید. ارزش گلوله‌ها مخصوصا در مراحل بالای بازی زیاد است که هزینه رد کردن سوال با سکه زیاد می‌باشد و بهتر است پاسخ آن‌را پیدا کنید. همچنین اگر با سکه سوالی را رد کنید امتیاز آن‌را نمی‌گیرید ولی در استفاده از گلوله برفی امتیاز مرحله را نیز خواهید گرفت. توصیه می‌کنم همیشه تعدادی گلوله برای سوالات حساس همراه داشته باشید."
+                                    android:textColor="#3b3e38" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginBottom="4dp"
+                                android:layout_marginTop="8dp"
+                                android:gravity="center|right"
+                                android:orientation="vertical" >
+
+                                <TextView
+                                    android:id="@+id/TextView22"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="زمان"
+                                    android:textColor="#3ba2f2"
+                                    android:textSize="16dp" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:gravity="center|right"
+                                android:orientation="vertical" >
+
+                                <TextView
+                                    android:id="@+id/TextView25"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="right"
+                                    android:text="در حالت عادی زمان پاسخ‌گویی به هرسوال مناسب است ولی برای کسایی که زمان بیشتری برای پاسخ‌گویی به سوالات نیاز دارند بسته‌های زمانی در نظر گرفته شده‌اند. همچنین با استفاده از بسته‌های زمانی وابستگی به گلوله برفی کمتر می‌شود  و ساده‌تر می‌توان به مراحل بالاتر رسید و سکه‌های بیشتر جمع آوری کرد."
+                                    android:textColor="#3b3e38" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginBottom="4dp"
+                                android:layout_marginTop="8dp"
+                                android:gravity="center|right"
+                                android:orientation="vertical" >
+
+                                <TextView
+                                    android:id="@+id/TextView26"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="جغد بزرگ (حالت مخصوص)"
+                                    android:textColor="#3ba2f2"
+                                    android:textSize="16dp" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:gravity="center|right"
+                                android:orientation="vertical" >
+
+                                <TextView
+                                    android:id="@+id/TextView21"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="right"
+                                    android:text="این حالت از بازی به طور پیش‌فرض فعال نمی‌باشد و برای استفاده‌ از آن می‌بایست این بسته را خریداری نمود. حالت مخصوص علاوه بر هیجان بیشتر به ارتقا امتیاز کلی شما کمک می‌کند و باعث می‌شود راحت‌تر به نفرات برتر کشور بپیوندید."
+                                    android:textColor="#3b3e38" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginBottom="4dp"
+                                android:layout_marginTop="8dp"
+                                android:gravity="center|right"
+                                android:orientation="vertical" >
+
+                                <TextView
+                                    android:id="@+id/TextView31"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="نکته"
+                                    android:textColor="#3ba2f2"
+                                    android:textSize="16dp" />
+
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:gravity="center|right"
+                                android:orientation="vertical" >
+
+                                <TextView
+                                    android:id="@+id/TextView30"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="right"
+                                    android:text="برای لذت بردن از بازی و حتی رکورد زدن نیازی به پرداخت هیچ هزینه‌ای نیست و به سادگی و با کمی دقت می‌توان جزء نفرات برتر قرار گرفت و فروشگاه تنها برای امور خیریه و بیشتر کردن لذت شما از بازی طراحی شده."
+                                    android:textColor="#3b3e38" />
+
+                            </LinearLayout>
+                        </LinearLayout>
+
+                    </ScrollView>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="#ffffff"
+                android:gravity="right"
+                android:orientation="vertical"
+                android:padding="20dp" android:layout_marginTop="10dp">
+
+                <TextView
+                    android:id="@+id/TextView32"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dp"
+                    android:text="امتیازدهی بازی"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textColor="#143669" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
+                    <ScrollView
+                        android:id="@+id/ScrollView04"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" >
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:gravity="center|right"
+                            android:orientation="vertical" >
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:gravity="center|right"
+                                android:orientation="vertical" >
+
+                                <TextView
+                                    android:id="@+id/TextView37"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="right"
+                                    android:text="هر سوال بسته به درجه سختی‌اش امتیازی دارد. برای مثال سوال‌های مرحله یک هرکدام 10 امتیاز و مرحله 2 هرکدام 20 امتیاز دارند. به همین نسبت مقدار امتیاز افزایش می‌یابد. "
+                                    android:textColor="#3b3e38" />
+
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginBottom="4dp"
+                                android:layout_marginTop="8dp"
+                                android:gravity="center|right"
+                                android:orientation="vertical" >
+
+                                <TextView
+                                    android:id="@+id/TextView34"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="در آخر هر مرحله با توجه به دو پارامتر سکه دریافت می‌کنید:"
+                                    android:textColor="#3ba2f2"
+                                    android:textSize="16dp" />
+
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginBottom="4dp"
+                                android:layout_marginTop="8dp"
+                                android:gravity="center|right"
+                                android:orientation="vertical" >
+
+                                <TextView
+                                    android:id="@+id/TextView38"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="right"
+                                    android:text="1-	تعداد امتیازی که در این مرحله گرفته‌اید. برای مثال اگر 10000 امتیاز گرفته باشید هزار سکه دریافت خواهید کرد."
+                                    android:textColor="#3b3e38" />
+
+                                <TextView
+                                    android:id="@+id/TextView39"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="right"
+                                    android:text="2-	اگر رکورد قبلی خود را شکسته باشید به میزان اختلاف امتیاز رکورد جدید و قبلی خود سکه اضافی دریافت خواهید کرد."
+                                    android:textColor="#3b3e38" />
+
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginBottom="4dp"
+                                android:layout_marginTop="8dp"
+                                android:gravity="center|right"
+                                android:orientation="vertical" >
+
+                                <TextView
+                                    android:id="@+id/TextView33"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="right"
+                                    android:text="همچنین در حالت جغد بزرگ اگر پاسخ سوالی را کمتر از 10 ثانیه بدهید بسته به اینکه چقدر زودتر پاسخ داده باشید یک مقدار سکه دریافت می‌کنید. در بهترین حالت می‌توانید تا دو برابر امتیاز مرحله سکه دریافت کنید. مثلا اگر مرحله 10 باشید هر سوال 100 امتیاز و 10 سکه دارد. اگر یک سوال را در این مرحله خیلی زود (کمتر از 3 ثانیه) پاسخ دهید 20 سکه به خاطر سرعت عمل و 10 سکه هم به دلیل امتیاز مرحله پاداش خواهید گرفت. امتیازهای هر بخش به صورت جداگانه محاسبه می‌شود و در هر نوع از 13 مدل بازی شما می‌توانید امتیاز و رتبه خود را با سایر بازیکنان داخل کشور بسنجید. امتیاز و رتبه کل شما نیز از مجموع رتبه‌ها و امتیازهایتان به‌دست می‌آید. یعنی هر بازیکن 14 امتیاز و 14 رتبه دارد که با هر بازی اگر به اینترنت متصل باشد این مقادیر به روز خواهند شد. برای ثبت امتیازها لازم است به اینترنت متصل باشید. اگر در بازی ثبت نام کرده باشید ولی هنگام بازی به اینترنت متصل نباشید امتیاز شما ثبت می‌شود و در اولین اتصال‌تان به اینترنت در سیستم ثبت خواهد شد."
+                                    android:textColor="#3b3e38" />
+
+                            </LinearLayout>
+
+                        </LinearLayout>
+                    </ScrollView>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff"
+                android:gravity="right"
+                android:orientation="vertical"
+                android:padding="20dp" android:layout_marginTop="10dp">
+
+                <TextView
+                    android:id="@+id/TextView45"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dp"
+                    android:text="امکانات"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textColor="#143669" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
+                    <ScrollView
+                        android:id="@+id/ScrollView05"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" >
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:gravity="center|right"
+                            android:orientation="vertical" >
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginBottom="4dp"
+                                android:layout_marginTop="8dp"
+                                android:gravity="center|right"
+                                android:orientation="vertical" >
+
+                                <TextView
+                                    android:id="@+id/TextView44"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="برترین‌ها"
+                                    android:textColor="#3ba2f2"
+                                    android:textSize="16dp" />
+
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:gravity="center|right"
+                                android:orientation="vertical" >
+
+                                <TextView
+                                    android:id="@+id/TextView46"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="right"
+                                    android:text="هر بازیکن در هریک از 13 حالت بازی یک رتبه و یک امتیاز دارد. اگر در هر شاخه بین 10 نفر اول کشور باشید پروفایل شما در صفحه بهترین‌های مربوط به همان شاخه به نمایش در‌می‌آید و دیگران می‌توانند اسم، لقب، امتیاز و پروفایل شما را مشاهده کنند."
+                                    android:textColor="#3b3e38" />
+
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginBottom="4dp"
+                                android:layout_marginTop="8dp"
+                                android:gravity="center|right"
+                                android:orientation="vertical" >
+
+                                <TextView
+                                    android:id="@+id/TextView40"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="پروفایل"
+                                    android:textColor="#3ba2f2"
+                                    android:textSize="16dp" />
+
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:gravity="center|right"
+                                android:orientation="vertical" >
+
+                                <TextView
+                                    android:id="@+id/TextView41"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="right"
+                                    android:text="در پروفایل هر بازیکن است اطلاعات رکوردها، نام کاربری و لقب بازیکن قرار دارد. بعد از ثبت نام در بازی می‌توانید از منوی سمت راست وارد پروفایل خود شوید و این صفحه را شخصی سازی کنید. اگر بین نفرات برتر قرار گیرید پروفایل شما برای تمام بازیکنان به نمایش درخواهد آمد. بهتر است از قرار دادن اطلاعات شخصی در این صفحه خودداری کنید. تصاویر پروفایل به صورت پیش‌فرض در بازی قرار دارند و فقط کافیست یکی از آنها را انتخاب کنید."
+                                    android:textColor="#3b3e38" />
+
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginBottom="4dp"
+                                android:layout_marginTop="8dp"
+                                android:gravity="center|right"
+                                android:orientation="vertical" >
+
+                                <TextView
+                                    android:id="@+id/TextView36"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="لقب"
+                                    android:textColor="#3ba2f2"
+                                    android:textSize="16dp" />
+
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:gravity="center|right"
+                                android:orientation="vertical" >
+
+                                <TextView
+                                    android:id="@+id/TextView42"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="right"
+                                    android:text="لقب‌های بازی انواع مختلفی دارد. برخی از آن‌ها با سکه قابل خریداری هستند. برخی دیگر وقتی فعال می‌شوند که تعداد خاصی بازی انجام دهید. و دسته دیگر آن‌هایی هستند که زمانی فعال می‌شوند که شما به تعداد مشخصی به سوالاتی با درجه سختی مشخص برسید. برای مثال 10 بار به مرحله 7 (فرق نمی‌کند در کدام سبک) برسید. و نوع بسیار خاص‌تر لقب‌ها آن‌هایی هستند که وقتی فعال می‌شوند که شما در حالت جغد بزرگ به تعداد مشخصی به مرحله خاصی برسید. لقب‌ها در واقع ارزش بازی شما را برای دیگران مشخص می‌کنند. و البته بعضی از آن‌ها جنبه طنز دارند و یا میزان ثروت شما را نشان می‌دهند."
+                                    android:textColor="#3b3e38" />
+
+                            </LinearLayout>
+                        </LinearLayout>
+                    </ScrollView>
+                </LinearLayout>
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

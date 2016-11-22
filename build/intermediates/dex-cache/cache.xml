@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\Programming\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Taher\studio project\True or False\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_b7a397c354fad09bc1f5e7c1964b3f49d59c8213.jar" />
+    </item>
+    <item
+        jar="C:\Users\Taher\studio project\True or False\app\libs\Parse-1.7.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="87c45f9f66da531a65f065ee32f603c7e6db1528">
+        <dex dex="C:\Users\Taher\studio project\True or False\app\build\intermediates\pre-dexed\debug\Parse-1.7.1_a1732837b371d975bef8f4282646badc5ecd4ae5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Taher\studio project\True or False\app\libs\bolts-android-1.1.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e61e3dfc57eaa5c97f9e7061db5608fc7d02d39e">
+        <dex dex="C:\Users\Taher\studio project\True or False\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.3_4b3addd5a02919b3080b5c038edeace51d203beb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Taher\studio project\True or False\app\libs\adad-2.9.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5c94c9e323d863a773204b89f88ab1e4ba31fd67">
+        <dex dex="C:\Users\Taher\studio project\True or False\app\build\intermediates\pre-dexed\debug\adad-2.9_82d54d891fcc20591d40177f7201bacaff14343e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Taher\studio project\True or False\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="C:\Users\Taher\studio project\True or False\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-18.0.0_f0a40ae4e5bd259c1e4884516a322e470796765a.jar" />
+    </item>
+
+</items>

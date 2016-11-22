@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@+id/layout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:orientation="vertical" android:background="#f3f1ce">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:gravity="bottom|right" android:padding="8dp">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" android:layout_weight="1">
+
+                <ImageView
+                    android:id="@+id/imageView1"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:src="@drawable/logo" />
+
+            </LinearLayout>
+
+            <utilities.BoldTextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="خروج از برنامه"
+                android:textAppearance="?android:attr/textAppearanceLarge" android:textColor="#0b8ba6" android:layout_marginLeft="5dp" android:textSize="20dp" android:layout_marginBottom="4dp"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" android:gravity="right">
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:orientation="vertical" android:layout_weight="1" android:gravity="center">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:orientation="vertical" >
+
+
+                <CheckBox
+                    android:id="@+id/checkBoxNoDialog"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:text="عدم نمایش این دیالوگ"
+                    android:textColor="#3f3f3f" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+
+            <LinearLayout
+                android:id="@+id/layoutCancel"
+                android:layout_width="0dp"
+                android:layout_height="48dp"
+                android:layout_weight="0.33"
+                android:background="@drawable/button_exit_dialog"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:padding="4dp" android:layout_margin="2dp">
+
+
+
+                <utilities.LightTextView
+                    android:id="@+id/textView2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="انصراف" android:textColor="#3f3f3f"/>
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/layoutComent"
+                android:layout_width="0dp"
+                android:layout_height="48dp"
+                android:layout_weight="0.33"
+                android:background="@drawable/button_exit_dialog"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:padding="4dp" android:layout_margin="2dp">
+
+
+
+                <utilities.LightTextView
+                    android:id="@+id/TextView01"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="نظردهید" android:textColor="#3f3f3f"/>
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/layoutExit"
+                android:layout_width="0dp"
+                android:layout_height="48dp"
+                android:layout_weight="0.33"
+                android:background="@drawable/button_exit_dialog"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:padding="4dp" android:layout_margin="2dp">
+
+
+
+                <utilities.LightTextView
+                    android:id="@+id/TextView02"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="خروج" android:textColor="#3f3f3f"
+                    android:phoneNumber="false" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

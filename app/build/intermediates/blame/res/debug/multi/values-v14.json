@@ -1,0 +1,984 @@
+[
+    {
+        "outputFile": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 131,
+                    "endOffset": 182
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 178,
+                        "endColumn": 138,
+                        "endOffset": 312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 187,
+                    "endColumn": 125,
+                    "endOffset": 308
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 318,
+                        "endColumn": 132,
+                        "endOffset": 446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 313,
+                    "endColumn": 132,
+                    "endOffset": 441
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 452,
+                        "endColumn": 139,
+                        "endOffset": 587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 446,
+                    "endColumn": 132,
+                    "endOffset": 574
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 593,
+                        "endColumn": 139,
+                        "endOffset": 728
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 579,
+                    "endColumn": 137,
+                    "endOffset": 712
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 734,
+                        "endColumn": 144,
+                        "endOffset": 874
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 717,
+                    "endColumn": 131,
+                    "endOffset": 844
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 880,
+                        "endColumn": 138,
+                        "endOffset": 1014
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 849,
+                    "endColumn": 138,
+                    "endOffset": 983
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1020,
+                        "endColumn": 145,
+                        "endOffset": 1161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 988,
+                    "endColumn": 138,
+                    "endOffset": 1122
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1167,
+                        "endColumn": 145,
+                        "endOffset": 1308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1127,
+                    "endColumn": 130,
+                    "endOffset": 1253
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1314,
+                        "endColumn": 137,
+                        "endOffset": 1447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1258,
+                    "endColumn": 138,
+                    "endOffset": 1392
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1453,
+                        "endColumn": 145,
+                        "endOffset": 1594
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1397,
+                    "endColumn": 154,
+                    "endOffset": 1547
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1600,
+                        "endColumn": 161,
+                        "endOffset": 1757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1552,
+                    "endColumn": 132,
+                    "endOffset": 1680
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1763,
+                        "endColumn": 139,
+                        "endOffset": 1898
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1685,
+                    "endColumn": 148,
+                    "endOffset": 1829
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1904,
+                        "endColumn": 155,
+                        "endOffset": 2055
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1834,
+                    "endColumn": 140,
+                    "endOffset": 1970
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2061,
+                        "endColumn": 147,
+                        "endOffset": 2204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1975,
+                    "endColumn": 156,
+                    "endOffset": 2127
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2210,
+                        "endColumn": 163,
+                        "endOffset": 2369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2132,
+                    "endColumn": 134,
+                    "endOffset": 2262
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2375,
+                        "endColumn": 141,
+                        "endOffset": 2512
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2267,
+                    "endColumn": 150,
+                    "endOffset": 2413
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2518,
+                        "endColumn": 157,
+                        "endOffset": 2671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2418,
+                    "endLine": 42,
+                    "endColumn": 12,
+                    "endOffset": 4047
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2798,
+                        "endLine": 61,
+                        "endColumn": 12,
+                        "endOffset": 4427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4052,
+                    "endLine": 66,
+                    "endColumn": 12,
+                    "endOffset": 5693
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 4433,
+                        "endLine": 86,
+                        "endColumn": 12,
+                        "endOffset": 6074
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 5698,
+                    "endLine": 90,
+                    "endColumn": 12,
+                    "endOffset": 7384
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 6080,
+                        "endLine": 111,
+                        "endColumn": 12,
+                        "endOffset": 7766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 7389,
+                    "endColumn": 90,
+                    "endOffset": 7475
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 7893,
+                        "endColumn": 97,
+                        "endOffset": 7986
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 7480,
+                    "endColumn": 102,
+                    "endOffset": 7578
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 7992,
+                        "endColumn": 109,
+                        "endOffset": 8097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 7583,
+                    "endColumn": 104,
+                    "endOffset": 7683
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 8103,
+                        "endColumn": 111,
+                        "endOffset": 8210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 7688,
+                    "endColumn": 106,
+                    "endOffset": 7790
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 4,
+                        "startOffset": 8216,
+                        "endColumn": 113,
+                        "endOffset": 8325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 7795,
+                    "endColumn": 106,
+                    "endOffset": 7897
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 8331,
+                        "endColumn": 113,
+                        "endOffset": 8440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 7902,
+                    "endColumn": 96,
+                    "endOffset": 7994
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 4,
+                        "startOffset": 8446,
+                        "endColumn": 103,
+                        "endOffset": 8545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 7999,
+                    "endColumn": 116,
+                    "endOffset": 8111
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 4,
+                        "startOffset": 8551,
+                        "endColumn": 123,
+                        "endOffset": 8670
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 8116,
+                    "endColumn": 114,
+                    "endOffset": 8226
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 4,
+                        "startOffset": 8676,
+                        "endColumn": 121,
+                        "endOffset": 8793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 8231,
+                    "endLine": 105,
+                    "endColumn": 12,
+                    "endOffset": 8624
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 4,
+                        "startOffset": 8799,
+                        "endLine": 135,
+                        "endColumn": 12,
+                        "endOffset": 9192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 8629,
+                    "endColumn": 112,
+                    "endOffset": 8737
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 4,
+                        "startOffset": 9198,
+                        "endColumn": 113,
+                        "endOffset": 9307
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 8742,
+                    "endColumn": 106,
+                    "endOffset": 8844
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 4,
+                        "startOffset": 9313,
+                        "endColumn": 107,
+                        "endOffset": 9416
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 8849,
+                    "endColumn": 93,
+                    "endOffset": 8938
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 4,
+                        "startOffset": 9422,
+                        "endColumn": 94,
+                        "endOffset": 9512
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 8943,
+                    "endColumn": 90,
+                    "endOffset": 9029
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 143,
+                        "startColumn": 4,
+                        "startOffset": 9518,
+                        "endColumn": 97,
+                        "endOffset": 9611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 9034,
+                    "endColumn": 86,
+                    "endOffset": 9116
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 145,
+                        "startColumn": 4,
+                        "startOffset": 9617,
+                        "endColumn": 87,
+                        "endOffset": 9700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 9121,
+                    "endColumn": 102,
+                    "endOffset": 9219
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 147,
+                        "startColumn": 4,
+                        "startOffset": 9706,
+                        "endColumn": 109,
+                        "endOffset": 9811
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 9224,
+                    "endColumn": 114,
+                    "endOffset": 9334
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 149,
+                        "startColumn": 4,
+                        "startOffset": 9817,
+                        "endColumn": 121,
+                        "endOffset": 9934
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 9339,
+                    "endColumn": 130,
+                    "endOffset": 9465
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 151,
+                        "startColumn": 4,
+                        "startOffset": 9940,
+                        "endColumn": 137,
+                        "endOffset": 10073
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 9470,
+                    "endColumn": 116,
+                    "endOffset": 9582
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 153,
+                        "startColumn": 4,
+                        "startOffset": 10079,
+                        "endColumn": 123,
+                        "endOffset": 10198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 9587,
+                    "endColumn": 132,
+                    "endOffset": 9715
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 155,
+                        "startColumn": 4,
+                        "startOffset": 10204,
+                        "endColumn": 139,
+                        "endOffset": 10339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 9720,
+                    "endColumn": 118,
+                    "endOffset": 9834
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 157,
+                        "startColumn": 4,
+                        "startOffset": 10345,
+                        "endColumn": 125,
+                        "endOffset": 10466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 9839,
+                    "endColumn": 134,
+                    "endOffset": 9969
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 159,
+                        "startColumn": 4,
+                        "startOffset": 10472,
+                        "endColumn": 141,
+                        "endOffset": 10609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 9974,
+                    "endColumn": 118,
+                    "endOffset": 10088
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 161,
+                        "startColumn": 4,
+                        "startOffset": 10615,
+                        "endColumn": 125,
+                        "endOffset": 10736
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 10093,
+                    "endColumn": 134,
+                    "endOffset": 10223
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 163,
+                        "startColumn": 4,
+                        "startOffset": 10742,
+                        "endColumn": 141,
+                        "endOffset": 10879
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 10228,
+                    "endColumn": 108,
+                    "endOffset": 10332
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 165,
+                        "startColumn": 4,
+                        "startOffset": 10885,
+                        "endColumn": 115,
+                        "endOffset": 10996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 10337,
+                    "endColumn": 128,
+                    "endOffset": 10461
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 167,
+                        "startColumn": 4,
+                        "startOffset": 11002,
+                        "endColumn": 135,
+                        "endOffset": 11133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 10466,
+                    "endColumn": 126,
+                    "endOffset": 10588
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 4,
+                        "startOffset": 11139,
+                        "endColumn": 133,
+                        "endOffset": 11268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 10593,
+                    "endColumn": 120,
+                    "endOffset": 10709
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 171,
+                        "startColumn": 4,
+                        "startOffset": 11274,
+                        "endColumn": 127,
+                        "endOffset": 11397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 10714,
+                    "endColumn": 124,
+                    "endOffset": 10834
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 173,
+                        "startColumn": 4,
+                        "startOffset": 11403,
+                        "endColumn": 125,
+                        "endOffset": 11524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 10839,
+                    "endColumn": 112,
+                    "endOffset": 10947
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 175,
+                        "startColumn": 4,
+                        "startOffset": 11530,
+                        "endColumn": 113,
+                        "endOffset": 11639
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 10952,
+                    "endColumn": 102,
+                    "endOffset": 11050
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 177,
+                        "startColumn": 4,
+                        "startOffset": 11645,
+                        "endColumn": 109,
+                        "endOffset": 11750
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 11055,
+                    "endColumn": 98,
+                    "endOffset": 11149
+                },
+                "from": {
+                    "file": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 179,
+                        "startColumn": 4,
+                        "startOffset": 11756,
+                        "endColumn": 99,
+                        "endOffset": 11851
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MyTheme" parent="Theme.AppCompat"></style>
+
+ 
+
+    <style name="ExitDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowAnimationStyle">@style/ExitDialogAnimation</item>
+    </style>
+
+    <style name="ExitDialogAnimation">
+        <item name="android:windowEnterAnimation">@anim/come_in</item>
+        <item name="android:windowExitAnimation">@android:anim/slide_out_right</item>
+    </style>
+    
+    
+    <style name="EditDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowAnimationStyle">@style/EditDialogAnimation</item>
+    </style>
+
+    <style name="EditDialogAnimation">
+        <item name="android:windowEnterAnimation">@anim/rast_be_chap</item>
+        <item name="android:windowExitAnimation">@anim/chap_be_rast</item>
+    </style>
+
+    
+    <style name="Theme.Transparent" parent="@style/Theme.AppCompat">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+    <style name="Theme.Transparent2" parent="@style/Theme.AppCompat">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@drawable/bg_transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.8</item>
+    </style>
+
+</resources>

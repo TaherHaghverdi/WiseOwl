@@ -1,0 +1,706 @@
+[
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_50.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_50.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_challenge.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\btn_challenge.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_no_profile.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_no_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_circle_red.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_circle_red.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_48.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_48.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_plus_black.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_plus_black.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_33.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_33.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_17.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_17.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_bottom_solid_light_holo.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo_splash.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\logo_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_16.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_16.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_score_template.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_score_template.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_exit.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_lock.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_47.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_47.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_clear_search_api_disabled_holo_light.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_8.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_8.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_share.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\icon_share.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_spinner_ab_default_holo_dark.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\shop_header.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\shop_header.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_spinner_ab_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_solid_dark_holo.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_share_holo_light.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_20.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_20.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_right_default_holo_dark.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_special.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\bg_special.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_45.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_45.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_15.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_15.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_go.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_go.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_selected_holo_dark.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_ranks.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_ranks.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_31.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_31.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_29.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_29.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_shop.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_shop.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_caution.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_caution.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_18.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_34.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_34.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_first.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_first.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_clock_frozen.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_clock_frozen.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_cab_background_top_holo_light.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_ab_back_holo_dark.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_1.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_stacked_transparent_dark_holo.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_sliding_menu_closed.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_sliding_menu_closed.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_share_pack_holo_light.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_transparent_light_holo.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_menu_hardkey_panel_holo_dark.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_14.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_14.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_30.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_30.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_transparent_dark_holo.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_photo_circle.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_photo_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_36.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_36.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_coin.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_coin.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_21.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_21.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_share_holo_dark.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_sliding_menu_open.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_sliding_menu_open.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_49.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_49.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_menu_dropdown_panel_holo_light.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_default_holo_dark.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\divider.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\divider.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_cab_done_holo_dark.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_40.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_40.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_24.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_commit_search_api_holo_light.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_minus.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_minus.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_27.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_27.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_rival_no_profile.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_rival_no_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_43.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_43.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_46.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_46.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_shop_red.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_shop_red.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_clear_disabled.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_special.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\btn_special.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_update.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_update.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_tab_selected_holo.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_tab_selected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_clock.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_clock.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_reload.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_reload.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_minus_black.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_minus_black.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_go_search_api_holo_light.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_4.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_7.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_7.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_right_selected_holo_light.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_cab_background_bottom_holo_dark.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_cab_background_top_holo_dark.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_11.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_11.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_tab_unselected_pressed_holo.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_25.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_25.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_right_default_holo_light.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_stacked_solid_dark_holo.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_3.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_41.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_41.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_buy_c.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_buy_c.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_plus.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_divider_holo_light.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_snow_gun.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_snow_gun.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_sgift.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_sgift.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_39.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_39.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_search_api_holo_light.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_10.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_10.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_stacked_transparent_light_holo.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_spinner_ab_focused_holo_light.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_stacked_solid_light_holo.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_clear_search_api_holo_light.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_commit_search_api_holo_dark.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_spinner_ab_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_5.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_register.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_register.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_info_nc.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_info_nc.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_special_locked.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\btn_special_locked.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_records.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_records.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_gift.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_gift.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_voice_search.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_voice_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_tab_selected_pressed_holo.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_37.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_37.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_23.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_23.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_12.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_12.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_voice_search_api_holo_light.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_right_selected_holo_dark.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_42.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_42.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_selected_holo_light.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_26.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_26.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_spinner_ab_default_holo_light.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_search.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_default_holo_light.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo_rabbit.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\logo_rabbit.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_spinner_ab_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_time_out.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_time_out.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_login.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_login.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_solid_light_holo.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_normal1.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\btn_normal1.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_28.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_28.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_22.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_22.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_ab_back_holo_light.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_donate.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_donate.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_products.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_products.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_wrong_answer.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_wrong_answer.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_6.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_6.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_19.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_19.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_spinner_ab_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_44.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_44.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_update2.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_update2.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_coment.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_coment.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_menu_dropdown_panel_holo_dark.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_2.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_13.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_13.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_bottom_transparent_dark_holo.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_buy_nc.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_buy_nc.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_spinner_ab_focused_holo_dark.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_english.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\btn_english.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_bottom_transparent_light_holo.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_35.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_35.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_info_c.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_info_c.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_welcome.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_welcome.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_32.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_32.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_guid.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_guid.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_bottom_solid_dark_holo.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_send.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_send.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_back.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_38.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\img_38.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_cab_done_holo_light.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_setting.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\ic_setting.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_tab_selected_focused_holo.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_share_pack_holo_dark.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_cab_background_bottom_holo_light.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_menu_hardkey_panel_holo_light.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_math.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\drawable-xhdpi\\btn_math.png"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_divider_holo_dark.9.png",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_list_divider_holo_dark.9.png"
+    }
+]

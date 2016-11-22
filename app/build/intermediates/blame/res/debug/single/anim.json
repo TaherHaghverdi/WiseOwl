@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\anim\\gheib_right_to_left.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\anim\\gheib_right_to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\anim\\down_to_up.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\anim\\down_to_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in_fast.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\anim\\fade_in_fast.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out_fast.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\anim\\fade_out_fast.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zaher_right_to_left.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\anim\\zaher_right_to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\anim\\start_fade_in_animation.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\anim\\start_fade_in_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\anim\\click.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\anim\\click.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\anim\\az_bala_az_safe_bere.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\anim\\az_bala_az_safe_bere.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\anim\\chap_be_rast.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\anim\\chap_be_rast.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rast_be_chap.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\anim\\rast_be_chap.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\anim\\yeho_zaher_she.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\anim\\yeho_zaher_she.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\anim\\yeho_gheib_she.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\anim\\yeho_gheib_she.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\anim\\high_score.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\anim\\high_score.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\anim\\blink.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\anim\\blink.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\anim\\rotate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotation.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\anim\\rotation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\anim\\come_in_right_to_left.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\anim\\come_in_right_to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\anim\\come_in_left_to_right.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\anim\\come_in_left_to_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in_animation.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\anim\\fade_in_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\anim\\up_to_down.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\anim\\up_to_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\anim\\come_in.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\anim\\come_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\anim\\splash_anim.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\anim\\splash_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\anim\\enter.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\anim\\enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\anim\\cycle_7.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\anim\\cycle_7.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\anim\\spin_in.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\anim\\spin_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\anim\\click_rooye_pasokh.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\anim\\click_rooye_pasokh.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out_animation.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\anim\\fade_out_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Taher\\studio project\\True or False\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in2.xml",
+        "source": "C:\\Users\\Taher\\studio project\\True or False\\app\\src\\main\\res\\anim\\fade_in2.xml"
+    }
+]

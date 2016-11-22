@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">جغد دانا</string>
+    <string name="first_loading">در حال راه اندازی اولیه بازی...</string>
+    <string name="coin">سکه</string>
+    <string name="loading_finished">اطلاعات با موفقیت به روز شد.</string>
+    <string name="not_enough_coins">سکه های شما برای این کار کافی نمی باشد.</string>
+    <string name="wrong_answer">اشتباه جواب دادی.</string>
+    <string name="time_out">وقتت تموم شد.</string>
+    <string name="questionsUpdated">سوالات برنامه به روز رسانی شد.</string>
+    <string name="no_new_question">سوال جدیدی وجود ندارد.</string>
+    <string name="my_profile">پروفایل من</string>
+    <string name="profile">پروفایل</string>
+    <string name="total_rank">رتبه در کشور: </string>
+    <string name="no_access_to_total_rank">برای محاسبه رتبه خود در کشور به اینترنت متصل شوید. </string>
+    <string name="no_froze_bullets">گلوله های یخی شما تمام شده است.</string>
+    <string name="share_text">اشتراک گذاری</string>
+    <string name="rank">رتبه: </string>
+    <string name="played_games">بازی های انجام شده</string>
+    <string name="best">برترین های </string>
+    <string name="country">کشور </string>
+    <string name="invalid_email">ایمیل وارد شده معتبر نمی باشد.</string>
+    <string name="empty_field">لطفا اطلاعات خواسته شده را تکمیل نمایید.</string>
+    <string name="login_later">تا زمانی که وارد حساب خود نشوید رکورد های شما ثبت نخواهد شد.</string>
+    <string name="register_later">تا زمانی که ثبت نام نکنید رکورد های شما ثبت نخواهد شد.</string>
+    <string name="register_no_internet">برای ثبت نام نیاز است به اینترنت متصل باشید.</string>
+    <string name="register_repetitive_mail">ایمیل شما قبلا در سیستم ثبت شده است.</string>
+    <string name="registered_successfully">ثبت نام شما با وفقیت انجام شد.</string>
+    <string name="guid">راهنمای بازی</string>
+    <string name="donation">حمایت از بازی</string>
+    <string name="logout">خروج از حساب کاربری</string>
+    <string name="login">ورود به حساب کاربری</string>
+    <string name="need_to_register"> برای تشکیل پروفایل در برنامه ثبت نام کنید.</string>
+    <string name="register_to_see_ranks"> برای مشاهده امتیازها در برنامه ثبت نام کنید.</string>
+    <string name="successfully_changed_username"> نام کاربری شما با موفقیت تغییر یافت.</string>
+    <string name="internet_required">برای دسترسی به این بخش نیاز است به اینترنت متصل باشید.</string>
+    <string name="update_highscores_in_profile">برای ثبت بالاترین امتیاز به اینترنت متصل شوید.</string>
+    <string name="score_successfully_updated">امتیاز شما با موفقیت ثبت شد.</string>
+    <string name="purchase_special_mode">برای باز شدن این بخش باید بخش جغد بزرگ را خریداری نمایید.</string>
+    <string name="downloading_data">دریافت اطلاعات...</string>
+    <string name="check_purchase">دریافت اطلاعات خرید...</string>
+    <string name="login_invalid_pass">رمز عبور نادرست می باشد.</string>
+    <string name="login_invalid_mail">ایمیل نادرست می باشد.</string>
+    <string name="logged_in_successfully">خوش آمدید.</string>
+    <string name="login_problem">مشکلی در ورود شما رخ داد. لطفا بعدا مجددا امتحان کنید.</string>
+    <string name="no_email_client_installed">شما برنامه ای برای ارسال ایمیل ندارید. لطفا ایمیل ثبت نامی خود را برای ما ارسال کنید تا رمزتان را ارسال کنیم</string>
+    <string name="donate_mail_subject">بازی جغد دانا</string>
+    <string name="video_share">حتما این ویدیو رو تماشا کنین</string>
+    <string name="forgot_pass">فراموشی رمز عبور</string>
+    <string name="forgot_pass_text">ایمیل ثبت نامی من:\n
+       *ایمیل خود را اینجا بنویسید*
+       \n
+        \n
+        می باشد. لطفا رمز عبور را برایم ارسال نمایید.</string>
+    <string name="shop">فروشگاه</string>
+    <string name="setting">تنظیمات</string>
+    <string name="you_already_purchased">شما قبلا این محصول را خریده اید.</string>
+    <string name="high_scores">بالاترین امتیاز ها</string>
+    <string name="nickname">انتخاب لقب</string>
+    <string name="username">نام کاربری</string>
+    <string name="exit_dialog">یه بار دیگه back رو بزن تا از برنامه خارج شی</string>
+    <string name="res_11">باید 10 بار به مرحله 5 برسی</string>
+    <string name="res_12">باید 10 بار به مرحله 6 برسی</string>
+    <string name="res_13">باید 10 بار به مرحله 7 برسی</string>
+    <string name="res_14">باید 10 بار به مرحله 8 برسی</string>
+    <string name="res_15">باید 10 بار به مرحله 9 برسی</string>
+    <string name="res_16">باید 10 بار به مرحله 10 برسی</string>
+    <string name="res_17">باید 20 تا بازی انجام بدی</string>
+    <string name="res_18">باید 50 تا بازی انجام بدی</string>
+    <string name="res_19">باید 100 تا بازی انجام بدی</string>
+    <string name="res_20">باید 200 تا بازی انجام بدی</string>
+    <string name="res_21">باید 1000 تا بازی انجام بدی</string>
+    <string name="res_22">باید 1500 تا بازی انجام بدی</string>
+    <string name="res_23">باید 3000 تا بازی انجام بدی</string>
+    <string name="res_24">باید 5000 تا بازی انجام بدی</string>
+    <string name="res_25">باید به مرحله 2ئه جغد دانا برسی</string>
+    <string name="res_26">باید به مرحله 4ئه جغد دانا برسی</string>
+    <string name="res_27">باید به مرحله 6ئه جغد دانا برسی</string>
+    <string name="res_28">باید به مرحله 8ئه جغد دانا برسی</string>
+    <string name="res_29">باید به مرحله 10ئه جغد دانا برسی</string>
+        
+    <string name="classic_math_normal">ریاضی کلاسیک عادی</string>
+    <string name="classic_vocab_normal">انگلیسی کلاسیک عادی</string>
+    <string name="classic_challenge_normal">چالشی کلاسیک عادی</string>
+    <string name="timer_math_normal">ریاضی زمان دار عادی</string>
+    <string name="timer_vocab_normal">انگلیسی زمان دار عادی</string>
+    <string name="timer_challenge_normal">چالشی زمان دار عادی</string>
+    <string name="classic_math_reverse">ریاضی کلاسیک  معکوس</string>
+    <string name="classic_vocab_reverse">انگلیسی کلاسیک  معکوس</string>
+    <string name="classic_challenge_reverse">چالشی کلاسیک معکوس</string>
+    <string name="timer_math_reverse">ریاضی زمان دار معکوس</string>
+    <string name="timer_vocab_reverse">انگلیسی زمان دار معکوس</string>
+    <string name="timer_challenge_reverse">چالشی زمان دار معکوس</string>
+    <string name="special">حالت ویژه</string>
+    <string name="end_game">اونی که تو کله شماست مغز نیست، یه سوپر کامپیوتره! 
+        \n
+        روی جایزه کلیک کن و به ما یک ایمیل بزن تا باهات تماس بگیریم.
+        \n
+</string>
+
+    
+    <string name="info_0">
+500 تومان برای 1000 تا سکه.
+\n\n
+با سکه میتونی سوال ها رو رد کنی، اگر سوالی رو اشتباه جواب دادی بازی رو ادامه بدی و برای خودت لقب بخری.
+        </string>
+    <string name="info_1">
+1000 تومان برای 3000 تا سکه.
+\n\n
+با سکه میتونی سوال ها رو رد کنی، اگر سوالی رو اشتباه جواب دادی بازی رو ادامه بدی و برای خودت لقب بخری.
+        </string>
+    <string name="info_2">
+2000 تومان برای 10000 تا سکه (همراه هدیه).
+\n\n
+با سکه میتونی سوال ها رو رد کنی، اگر باختی بازی رو ادامه بدی و برای خودت لقب بخری.
+\n
+با این همه سکه حتی میتونی لقب "میلیاردر" رو هم برای خودت بخری!
+        </string>
+        
+    <string name="info_3">
+3 ثانیه بیشتر برای سوالات کلاسیک، 500 تومان.
+\n\n
+تو حالت کلاسیک برای هر سوال 5 ثانیه وقت داری. با خریدن این بسته از این به بعد برای هر سوال 3 ثانیه وقت بیشتر خواهی داشت یعنی وقتت برای هر سوال میشه 8 ثانیه.
+\nوقت بیشتر باعث میشه سوالات رو با دقت بیشتری جواب بدی و راحت تر بین نفرات برتر کشور قرار بگیری.
+ </string>
+     
+    
+    <string name="info_4">
+7 ثانیه بیشتر برای سوالات کلاسیک، 1000 تومان.
+\n\n
+تو حالت کلاسیک برای هر سوال 5 ثانیه وقت داری. با خریدن این بسته از این به بعد برای هر سوال 7 ثانیه وقت بیشتر خواهی داشت یعنی وقتت برای هر سوال میشه 12 ثانیه.
+\nوقت بیشتر باعث میشه سوالات رو با دقت بیشتری جواب بدی و راحت تر بین نفرات برتر کشور قرار بگیری.
+        </string>
+        
+    <string name="info_5">
+        
+100 ثانیه بیشتر برای سوالات زمان دار، 500 تومان.
+\n\n
+تو حالت زمان‌ دار مجموعا 60 ثانیه وقت برای پاسخ گویی به سوالات داری. با خریدن این بسته از این به بعد 160 ثانیه خواهی داشت. 
+    
+    
+        </string>
+    <string name="info_6">
+150 ثانیه بیشتر برای سوالات زمان دار، 1000 تومان
+\n\n
+تو حالت زمان‌ دار مجموعا 60 ثانیه وقت برای پاسخ گویی به سوالات داری. با خریدن این بسته از این به بعد 210 ثانیه خواهی داشت.
+ \n
+با این وقت میتونی تا مراحل بالاتری بری و سکه های بیشتری جمع کنی و از خرید سکه بی نیاز شی. چون مثلا هر سوال مرحله 5، پنج برابر سوال مرحله 1 سکه بهت میده!
+        
+    </string>
+    <string name="info_7">50 گلوله برفی، 500 تومان
+\n\n
+گلوله‌های برفی باعث میشن زمان بازی یخ بزنه و راحت بتونی به سوال فکر کنی. 
+\n
+توصیه میکنم حتما همیشه یه تعداد گلوله برای سوالای حساس داشته باشی.
+        </string>
+    <string name="info_8">
+        150 گلوله برفی، 1000 تومان
+\n\n
+گلوله‌های برفی باعث میشن زمان بازی یخ بزنه و راحت بتونی به سوال فکر کنی. 
+\n
+اگه دوست داری توی چند گروه مختلف به مرحله های بالا برسی این بسته لازمت میشه.
+        
+        </string>
+    <string name="info_9">
+500 گلوله برفی، 2000 تومان (همراه هدیه)
+\n\n
+گلوله‌های برفی باعث میشن زمان بازی یخ بزنه و راحت بتونی به سوال فکر کنی. 
+\n
+اگر میخوای اسمت جزء بهترین های کشور باشه این بسته میتونه خیلی کمکت کنه. تازه با این بسته می‌تونی به مرحله‌های خیلی بالا برسی و به راحتی سکه جمع کنی و از خرید سکه بی نیاز شی.
+        \n
+        </string>
+        
+    <string name="info_10">
+حالت ویژه بازی 1000 تومان
+\n\n
+حالت ویژه سوال‌های بامزه تر و بعضی وقت‌ها سخت تر داره. مدل سوال ها اصلا معلوم نیست و بعضی هاش از سوالهایی انتخاب میشه که شرکت های بزرگ برای استخدام کارمنداشون میپرسن.
+\n
+تو این حالت برای هر سوال 10 ثانیه وقت داری. ولی اگه زودتر جواب بدی تا دو برابر امتیاز مرحله میتونی سکه بگیری! 
+\n
+اگه تو این حالت جزء نفرات برتر کشور قرار بگیری مطمئن باش که خیلی باهوشی.
+    </string>
+    <string name="info_11">
+خرید تمامی امکانات بازی 8000 تومان
+\n\n
+توی این بسته تمامی محصولات فروشگاه به صورت یکجا هستن به علاوه تعداد بیشتری سکه و گلوله برفی
+\n
+با خرید این بسته علاوه بر این که لذت واقعی بازی رو حس میکنی و میتونی ساده تر خودت رو بین نفرات برتر کشور قرار بدی.
+    </string>
+    
+    
+    
+<!--     GIFTS -->
+
+<string name="gEnterHighScores">واسه اولین ورود به صفحه امتیازها</string>
+<string name="gRegister">واسه ثبت نام توی بازی</string>
+<string name="gChooseProfilePhoto">واسه انتخاب عکس پروفایل</string>
+<string name="gChooseNickName">واسه انتخاب لقب</string>
+<string name="gComment">واسه نظر دادن به برنامه</string>
+<string name="gSendApp">واسه ارسال برنامه</string>
+<string name="gShop">واسه خرید از فروشگاه</string>
+<string name="gLotsOfCoins">واسه خرید سکه زیاد</string>
+<string name="gLotsOfBullets">واسه خرید گلوله برفی زیاد</string>
+<string name="gEveryThing">واسه این که خوشتیپی :)</string>
+<string name="gAddSticker">واسه استفاده از استیکرهای ما :)</string>
+<string name="ginstall_new_version">واسه نصب نسخه جدید بازی</string>
+
+
+</resources>
